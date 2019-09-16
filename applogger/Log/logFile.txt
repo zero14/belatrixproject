@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-16T13:46:35</date>
+  <millis>1568659595558</millis>
+  <sequence>3</sequence>
+  <logger>class dao.impl.LogFileDaoImpl</logger>
+  <level>INFO</level>
+  <class>dao.impl.LogFileDaoImpl</class>
+  <method>save</method>
+  <thread>1</thread>
+  <message>[transId:123456]: error 16 de septiembre de 2019  INSERT INTO customers(id,name)VALUES(1,'Empresa') message 16 de septiembre de 2019  INSERT INTO customers(id,name)VALUES(1,'Empresa') warning 16 de septiembre de 2019  INSERT INTO customers(id,name)VALUES(1,'Empresa')</message>
+</record>
+</log>
